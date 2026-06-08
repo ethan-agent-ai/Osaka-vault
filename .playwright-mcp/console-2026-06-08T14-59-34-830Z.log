@@ -1,0 +1,114 @@
+[   10976ms] [LOG] Found lists: 1 @ :0
+[   10976ms] [LOG] List 0 children: 5 @ :0
+[   48224ms] [LOG] Found 1 place buttons @ :0
+[   48225ms] [LOG] [
+  "衛星"
+] @ :0
+[   57524ms] [LOG] Found: 20 @ :0
+[   57524ms] [LOG] 鰻魚飯 う桶や う
+4.0
+鰻魚料理餐廳 @ :0
+[   57524ms] [LOG] 扭蛋之森 梅田茶屋町店
+4.1
+玩具舖 @ :0
+[   57524ms] [LOG] CANELÉ du JAPON Nagahoribashi Store
+4.3
+糕餅店 @ :0
+[   57524ms] [LOG] 寶可夢咖啡廳 大阪心齋橋
+4.1
+咖啡店 @ :0
+[   57524ms] [LOG] YAMASTORE
+4.5
+時裝店 @ :0
+[   57524ms] [LOG] Paper Message Osaka
+4.6
+紙店 @ :0
+[   57524ms] [LOG] Cobato836
+4.1
+餅店 @ :0
+[   57524ms] [LOG] COBATO STORE OSAKA
+4.5
+糕餅店 @ :0
+[   57524ms] [LOG] BIOTOP OSAKA
+4.0
+時裝店 @ :0
+[   57524ms] [LOG] Onigiri Gorichan
+4.9
+日本餐廳 @ :0
+[   57524ms] [LOG] Onigiri Gorichan Nankai Namba Station
+5.0
+日本餐廳 @ :0
+[   57524ms] [LOG] 燒肉力丸 難波道頓堀店
+4.7
+日式燒肉餐廳 @ :0
+[   57524ms] [LOG] Gyutan Charcoal grilled YOSHIJI Unagidani branch
+4.6
+日式牛舌餐廳 @ :0
+[   57524ms] [LOG] Shabucho
+4.5
+壽喜燒和日式火鍋餐廳 @ :0
+[   57524ms] [LOG] 豪快立ち寿司
+4.2
+壽司店 @ :0
+[   57524ms] [LOG] 大興壽司 本店
+4.0
+壽司店 @ :0
+[   57524ms] [LOG] 木津市場
+4.0
+批發市場 @ :0
+[   57524ms] [LOG] Bear Paw Cafe
+4.5
+咖啡店 @ :0
+[   57524ms] [LOG] Kobatopankojo
+4.1
+餅店 @ :0
+[   57524ms] [LOG] 衛星 @ :0
+[   69302ms] [LOG] scrollable containers: 1 @ :0
+[   69302ms] [LOG] {"tag":"DIV","cls":"m6QErb DxyBCb kA9KIf dS8AEf XiKgde ussYcc ","scrollH":2072,"clientH":1017,"childCount":21} @ :0
+[   83820ms] [LOG] 衛星 @ :0
+[   93741ms] [LOG] Total unique places: 40 @ :0
+[   93741ms] [LOG] 鰻魚飯 う桶や う @ :0
+[   93741ms] [LOG] 扭蛋之森 梅田茶屋町店 @ :0
+[   93741ms] [LOG] CANELÉ du JAPON Nagahoribashi Store @ :0
+[   93742ms] [LOG] 寶可夢咖啡廳 大阪心齋橋 @ :0
+[   93742ms] [LOG] YAMASTORE @ :0
+[   93742ms] [LOG] Paper Message Osaka @ :0
+[   93742ms] [LOG] Cobato836 @ :0
+[   93742ms] [LOG] COBATO STORE OSAKA @ :0
+[   93742ms] [LOG] BIOTOP OSAKA @ :0
+[   93742ms] [LOG] Onigiri Gorichan @ :0
+[   93742ms] [LOG] Onigiri Gorichan Nankai Namba Station @ :0
+[   93742ms] [LOG] 燒肉力丸 難波道頓堀店 @ :0
+[   93742ms] [LOG] Gyutan Charcoal grilled YOSHIJI Unagidani branch @ :0
+[   93742ms] [LOG] Takoume Honten @ :0
+[   93742ms] [LOG] Shabucho @ :0
+[   93742ms] [LOG] 豪快立ち寿司 @ :0
+[   93742ms] [LOG] 大興壽司 本店 @ :0
+[   93742ms] [LOG] 木津市場 @ :0
+[   93742ms] [LOG] Bear Paw Cafe @ :0
+[   93742ms] [LOG] Kobatopankojo @ :0
+[   93742ms] [LOG] Harukas300展望台 @ :0
+[   93742ms] [LOG] Orange Street @ :0
+[   93742ms] [LOG] 馬鹿一代噴火拉麵 @ :0
+[   93742ms] [LOG] 千代松勝蓋飯 @ :0
+[   93742ms] [LOG] Hakata Kushiyaki Battenyokato @ :0
+[   93742ms] [LOG] DOTONBORI KUROFUNE Higashishinsaibashi @ :0
+[   93742ms] [LOG] 心齋橋 蟹善 @ :0
+[   93742ms] [LOG] 炭火焼 鳥清 @ :0
+[   93742ms] [LOG] Bakuro @ :0
+[   93742ms] [LOG] Oden no den Maki Sennichimae @ :0
+[   93742ms] [LOG] Tachisushi Maguro Ittetsu Sennichimae @ :0
+[   93742ms] [LOG] Yakinikuen Ningu(Yakinikuen忍鬨) @ :0
+[   93742ms] [LOG] Tonkatsu Minato @ :0
+[   93742ms] [LOG] Dekasan @ :0
+[   93742ms] [LOG] Nishiya @ :0
+[   93742ms] [LOG] 華家 @ :0
+[   93742ms] [LOG] Kiyosuke @ :0
+[   93742ms] [LOG] 壽喜燒．火鍋 Nabeya @ :0
+[   93742ms] [LOG] MORITAYA @ :0
+[   93742ms] [LOG] Hon Sekiguchi - Authentic Kansai-style Sukiyaki @ :0
+[  112784ms] [LOG] Total: 0 @ :0
+[  132173ms] [LOG] iter 0 buttons with star: 0 @ :0
+[  132677ms] [LOG] iter 1 buttons with star: 0 @ :0
+[  133178ms] [LOG] iter 2 buttons with star: 0 @ :0
+[  133691ms] [LOG] iter 3 buttons with star: 0 @ :0
