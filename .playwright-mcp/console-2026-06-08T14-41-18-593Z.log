@@ -1,0 +1,25 @@
+[    1332ms] [LOG] 
+%c住手！ font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black; @ https://static.cdninstagram.com/rsrc.php/v4/yA/r/llpHPzBZ1ZW.js:245
+[    1332ms] [LOG] 
+%c這是專門提供給開發人員的瀏覽器功能。如果有人告訴你在此處複製貼上某些內容可以使用某個 Threads 功能或「駭入」其他人的帳號，那其實是不實的詐騙訊息，並且會讓不法之徒有機會存取你的 Threads 帳號。 font-family:helvetica; font-size:20px;  @ https://static.cdninstagram.com/rsrc.php/v4/yA/r/llpHPzBZ1ZW.js:245
+[    1332ms] [LOG] 
+%c如需詳細資訊，請參閱 https://www.facebook.com/selfxss。 font-family:helvetica; font-size:20px;  @ https://static.cdninstagram.com/rsrc.php/v4/yA/r/llpHPzBZ1ZW.js:245
+[    1332ms] [LOG] 
+%c  @ https://static.cdninstagram.com/rsrc.php/v4/yA/r/llpHPzBZ1ZW.js:245
+[    1604ms] [ERROR] ErrorUtils caught an error:
+
+Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. {column: 28932, clientTime: 1780929680, componentStackFrames: Array(53), extra: Object, guardList: Array(1)} @ https://static.cdninstagram.com/rsrc.php/v4/yA/r/llpHPzBZ1ZW.js:79
+[    1606ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at mr (https://static.cdninstagram.com/rsrc.php/v4ijV54/yZ/l/zh_TW-j/t7LvHLw6om5.js:369:28932)
+    at Hl (https://static.cdninstagram.com/rsrc.php/v4ijV54/yZ/l/zh_TW-j/t7LvHLw6om5.js:369:80708)
+    at os (https://static.cdninstagram.com/rsrc.php/v4ijV54/yZ/l/zh_TW-j/t7LvHLw6om5.js:369:89454)
+    at Rd (https://static.cdninstagram.com/rsrc.php/v4ijV54/yZ/l/zh_TW-j/t7LvHLw6om5.js:369:141480)
+    at Sd (https://static.cdninstagram.com/rsrc.php/v4ijV54/yZ/l/zh_TW-j/t7LvHLw6om5.js:369:141452)
+    at vd (https://static.cdninstagram.com/rsrc.php/v4ijV54/yZ/l/zh_TW-j/t7LvHLw6om5.js:369:141307)
+    at id (https://static.cdninstagram.com/rsrc.php/v4ijV54/yZ/l/zh_TW-j/t7LvHLw6om5.js:369:136473)
+    at Jr (https://static.cdninstagram.com/rsrc.php/v4ijV54/yZ/l/zh_TW-j/t7LvHLw6om5.js:369:35869)
+    at Object.applyWithGuard (https://static.cdninstagram.com/rsrc.php/v4/yA/r/llpHPzBZ1ZW.js:80:10303)
+    at e (https://static.cdninstagram.com/rsrc.php/v4/yA/r/llpHPzBZ1ZW.js:80:11000)
+    at MessagePort.N (https://static.cdninstagram.com/rsrc.php/v4/yA/r/llpHPzBZ1ZW.js:235:1878)

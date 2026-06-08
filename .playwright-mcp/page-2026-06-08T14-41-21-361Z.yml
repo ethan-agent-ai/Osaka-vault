@@ -1,0 +1,534 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e2]:
+          - link "Threads" [ref=e4] [cursor=pointer]:
+            - /url: /
+            - img "Threads" [ref=e6]
+          - generic [ref=e8]:
+            - link "首頁" [ref=e10] [cursor=pointer]:
+              - /url: /
+              - img "首頁" [ref=e14]
+            - link "搜尋" [ref=e18] [cursor=pointer]:
+              - /url: /search
+              - img "搜尋" [ref=e22]
+            - button "建立" [ref=e25] [cursor=pointer]:
+              - img "建立" [ref=e29]
+            - button "通知" [ref=e32] [cursor=pointer]:
+              - img "通知" [ref=e36]
+            - button "個人檔案" [ref=e39] [cursor=pointer]:
+              - img "個人檔案" [ref=e43]
+          - generic [ref=e46]:
+            - button "置頂" [ref=e48] [cursor=pointer]:
+              - img "置頂" [ref=e52]
+            - button "更多 更多" [ref=e54] [cursor=pointer]:
+              - generic [ref=e55]:
+                - img "更多" [ref=e57]
+                - img "更多" [ref=e61]
+        - generic [ref=e69]:
+          - generic [ref=e71]:
+            - generic [ref=e79]:
+              - button [ref=e82] [cursor=pointer]:
+                - img [ref=e86]
+              - link [ref=e89] [cursor=pointer]:
+                - /url: /@casestw.3/post/DZUn3njlCOR?xmt=AQG0CdYAMphGqu3-Rn_6HMd6dPbpZCyZDekG17kkHBHgfkCeClB0gf3iJMCdrl_UViO1oD5Rxg&slof=1
+                - heading [level=1] [ref=e90]:
+                  - generic [ref=e91]: 串文
+                - generic [ref=e94]: 5,017次瀏覽
+            - region [ref=e97]:
+              - generic [ref=e99]:
+                - generic [ref=e100]:
+                  - generic [ref=e104]:
+                    - link [ref=e107] [cursor=pointer]:
+                      - /url: /@casestw.3
+                      - img [ref=e109]
+                    - generic [ref=e111]:
+                      - generic [ref=e112]:
+                        - link [ref=e117] [cursor=pointer]:
+                          - /url: /@casestw.3
+                          - generic [ref=e119]: casestw.3
+                        - link [ref=e123] [cursor=pointer]:
+                          - /url: /@casestw.3/post/DZUn3njlCOR
+                          - time [ref=e124]:
+                            - generic [ref=e126]: 3小時
+                      - button [ref=e129] [cursor=pointer]:
+                        - img [ref=e131]
+                    - generic [ref=e136]:
+                      - generic [ref=e139]:
+                        - text: 大阪購物別瞎逛！4大商圈購物全解析🗺️ 在小紅書看到的👀推薦給大家～
+                        - button [ref=e141] [cursor=pointer]:
+                          - generic [ref=e142]: 翻譯
+                      - generic [ref=e147]:
+                        - generic [ref=e151]:
+                          - button [ref=e152]
+                          - button [ref=e156] [cursor=pointer]
+                        - generic [ref=e159]:
+                          - button [ref=e160]
+                          - button [ref=e164] [cursor=pointer]
+                        - generic [ref=e167]:
+                          - button [ref=e168]
+                          - button [ref=e172] [cursor=pointer]
+                        - generic [ref=e175]:
+                          - button [ref=e176]
+                          - button [ref=e180] [cursor=pointer]
+                        - generic [ref=e183]:
+                          - button [ref=e184]
+                          - button [ref=e188] [cursor=pointer]
+                        - button [ref=e192]
+                      - generic [ref=e197]:
+                        - button [ref=e199] [cursor=pointer]:
+                          - generic [ref=e201]:
+                            - img [ref=e202]
+                            - generic [ref=e206]: "48"
+                        - button [ref=e208] [cursor=pointer]:
+                          - generic [ref=e210]:
+                            - img [ref=e211]
+                            - generic [ref=e215]: "1"
+                        - button [ref=e217] [cursor=pointer]:
+                          - generic [ref=e219]:
+                            - img [ref=e220]
+                            - generic [ref=e225]: "9"
+                        - button [ref=e227] [cursor=pointer]:
+                          - generic [ref=e229]:
+                            - img [ref=e230]
+                            - generic [ref=e235]: "161"
+                  - generic [ref=e240] [cursor=pointer]:
+                    - generic [ref=e242]:
+                      - img [ref=e244]
+                      - generic [ref=e247]: 已釘選
+                    - generic [ref=e248]:
+                      - link [ref=e251]:
+                        - /url: /@casestw.3
+                        - img [ref=e253]
+                      - generic [ref=e255]:
+                        - generic [ref=e256]:
+                          - link [ref=e261]:
+                            - /url: /@casestw.3
+                            - generic [ref=e263]: casestw.3
+                          - generic [ref=e264]:
+                            - link [ref=e267]:
+                              - /url: /@casestw.3/post/DZUn681FCta
+                              - time [ref=e268]:
+                                - generic [ref=e270]: 3小時
+                            - generic [ref=e271]:
+                              - generic [ref=e272]: ·
+                              - generic [ref=e273]: 作者
+                        - button [ref=e276]:
+                          - img [ref=e278]
+                      - generic [ref=e283]:
+                        - generic [ref=e284]:
+                          - generic [ref=e286]: Cases x 日本連線 🇯🇵 闆娘親代 京都代購 佛系日本代購 ：6/16-6/26
+                          - generic [ref=e288]: 代購商品： 潮牌、藥妝、精品、專櫃彩妝、唐吉訶德、大創、Uniqlo、吉伊卡哇、三麗鷗、你想得到的商品都可以代購！
+                          - generic [ref=e290]: 交易方式： 7-11店到店、郵局、面交（台中市區）
+                          - generic [ref=e292]: 可以幫忙代購指定商品！
+                          - generic [ref=e294]:
+                            - text: Instagram ：
+                            - link [ref=e295]:
+                              - /url: https://l.threads.com/?u=https%3A%2F%2Fwww.instagram.com%2Fcasestw.3%3Figsh&e=AUCZy4NBCFI1ubiCNalV0UqqZUEoD9CymBe_y3DmQ4rqqHWixQ_VUIOLxIXKvtDtZpVHo-A8Vr5FydI78326AuvxKy_B76z--EBZLVVOyq7fkbF-O0prvivvxn0
+                              - text: instagram.com/cases…
+                            - text: 連線社群：
+                            - link [ref=e296]:
+                              - /url: https://l.threads.com/?u=https%3A%2F%2Fline.me%2Fti%2Fg2%2FitTK6PZtufrYp19xH8H7kOgRWOT8mPe_d0T9fQ%3Futm_source&e=AUCZy4NBCFI1ubiCNalV0UqqZUEoD9CymBe_y3DmQ4rqqHWixQ_VUIOLxIXKvtDtZpVHo-A8Vr5FydI78326AuvxKy_B76z--EBZLVVOyq7fkbF-O0prvivvxn0
+                              - text: line.me/ti/g2…
+                            - button [ref=e298]:
+                              - generic [ref=e299]: 翻譯
+                        - generic [ref=e304]:
+                          - generic [ref=e308]:
+                            - button [ref=e309]
+                            - button [ref=e313]
+                          - generic [ref=e316]:
+                            - button [ref=e317]
+                            - button [ref=e321]
+                          - button [ref=e325]
+                        - generic [ref=e330]:
+                          - button [ref=e332]:
+                            - img [ref=e335]
+                          - button [ref=e338]:
+                            - img [ref=e341]
+                          - button [ref=e344]:
+                            - img [ref=e347]
+                          - button [ref=e351]:
+                            - img [ref=e354]
+                - generic [ref=e357]:
+                  - generic [ref=e359]: 相關串文
+                  - generic [ref=e365] [cursor=pointer]:
+                    - link [ref=e368]:
+                      - /url: /@sinsininjapan
+                      - img [ref=e370]
+                    - generic [ref=e372]:
+                      - generic [ref=e373]:
+                        - link [ref=e378]:
+                          - /url: /@sinsininjapan
+                          - generic [ref=e380]: sinsininjapan
+                        - link [ref=e384]:
+                          - /url: /@sinsininjapan/post/DY89kxdkTLC
+                          - time [ref=e385]: 2026-5-30
+                      - button [ref=e388]:
+                        - img [ref=e390]
+                    - generic [ref=e395]:
+                      - generic [ref=e396]:
+                        - generic [ref=e398]: 大阪購物|🛍️商場最全退稅指南
+                        - generic [ref=e400]: 大阪購物其實商場也是有定位分區的，有的商場適合買奢侈，有的商場適合買藥妝、電器、潮牌 還有最容易搞混的「店鋪免稅」和「櫃台免稅」一次講清
+                        - generic [ref=e402]: 💨梅田區域 適合：百貨/奢牌/電器/一站式購物 特點：大阪站直連，商場最密集，雨天也能逛 💨心齋橋•難波區域 適合：潮牌/藥妝/美食/二次元 特點：遊客最多，深夜也能買買買 💨天王寺區域 適合：本地感購物/人少好逛 特點：阿倍野 Harukas就在這裡
+                        - generic [ref=e404]:
+                          - text: 優惠券合集也同步給大家整理出來啦 買運動潮牌可以去難波alpen sports depo 買日雜伴手禮可以去堂吉訶德 買美妝護膚奢牌可以去大丸百貨 買電器可以去biccamera 買藥妝可以去kokumin drug 以上這些店鋪的優惠券都放在筆記圖裡面啦
+                          - button [ref=e406]:
+                            - generic [ref=e407]: 翻譯
+                      - generic [ref=e412]:
+                        - generic [ref=e416]:
+                          - button [ref=e417]
+                          - button [ref=e421]
+                        - generic [ref=e424]:
+                          - button [ref=e425]
+                          - button [ref=e429]
+                        - generic [ref=e432]:
+                          - button [ref=e433]
+                          - button [ref=e437]
+                        - generic [ref=e440]:
+                          - button [ref=e441]
+                          - button [ref=e445]
+                        - generic [ref=e448]:
+                          - button [ref=e449]
+                          - button [ref=e453]
+                        - button [ref=e457]
+                      - generic [ref=e462]:
+                        - button [ref=e464]:
+                          - generic [ref=e466]:
+                            - img [ref=e467]
+                            - generic [ref=e471]: "43"
+                        - button [ref=e473]:
+                          - img [ref=e476]
+                        - button [ref=e479]:
+                          - generic [ref=e481]:
+                            - img [ref=e482]
+                            - generic [ref=e487]: "13"
+                        - button [ref=e489]:
+                          - generic [ref=e491]:
+                            - img [ref=e492]
+                            - generic [ref=e497]: "93"
+                  - generic [ref=e503] [cursor=pointer]:
+                    - link [ref=e506]:
+                      - /url: /@wolf.57006450
+                      - img [ref=e508]
+                    - generic [ref=e510]:
+                      - generic [ref=e511]:
+                        - link [ref=e516]:
+                          - /url: /@wolf.57006450
+                          - generic [ref=e518]: wolf.57006450
+                        - generic [ref=e519]:
+                          - generic [ref=e520]:
+                            - img [ref=e523]
+                            - link [ref=e526]:
+                              - /url: /search?q=%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A&serp_type=tags&tag_id=18405834427032554
+                              - generic [ref=e529]: 日本旅遊
+                          - link [ref=e532]:
+                            - /url: /@wolf.57006450/post/DYxwBaMkxYK
+                            - time [ref=e533]: 2026-5-26
+                      - button [ref=e536]:
+                        - img [ref=e538]
+                    - generic [ref=e543]:
+                      - generic [ref=e544]:
+                        - generic [ref=e546]: 大阪梅田商圈購物攻略🛍️（精簡版） 這是我連逛三天梅田商圈 總結出的購物攻略！！ 雙手奉上我的備忘錄📝
+                        - generic [ref=e548]:
+                          - text: ⚠️一天根本逛不完 首選大家感興趣的商場哦 購物用到的優惠券一起放在5-6-7-8-9了 祝大家購物愉快✌🏻✌🏻✌🏻
+                          - button [ref=e550]:
+                            - generic [ref=e551]: 翻譯
+                      - generic [ref=e556]:
+                        - generic [ref=e560]:
+                          - button [ref=e561]
+                          - button [ref=e565]
+                        - generic [ref=e568]:
+                          - button [ref=e569]
+                          - button [ref=e573]
+                        - generic [ref=e576]:
+                          - button [ref=e577]
+                          - button [ref=e581]
+                        - generic [ref=e584]:
+                          - button [ref=e585]
+                          - button [ref=e589]
+                        - generic [ref=e592]:
+                          - button [ref=e593]
+                          - button [ref=e597]
+                        - generic [ref=e600]:
+                          - button [ref=e601]
+                          - button [ref=e605]
+                        - generic [ref=e608]:
+                          - button [ref=e609]
+                          - button [ref=e613]
+                        - generic [ref=e616]:
+                          - button [ref=e617]
+                          - button [ref=e621]
+                        - button [ref=e625]
+                      - generic [ref=e630]:
+                        - button [ref=e632]:
+                          - generic [ref=e634]:
+                            - img [ref=e635]
+                            - generic [ref=e639]: "19"
+                        - button [ref=e641]:
+                          - img [ref=e644]
+                        - button [ref=e647]:
+                          - generic [ref=e649]:
+                            - img [ref=e650]
+                            - generic [ref=e655]: "4"
+                        - button [ref=e657]:
+                          - generic [ref=e659]:
+                            - img [ref=e660]
+                            - generic [ref=e665]: "79"
+                  - generic [ref=e671] [cursor=pointer]:
+                    - link [ref=e674]:
+                      - /url: /@bear.8532445
+                      - img [ref=e676]
+                    - generic [ref=e678]:
+                      - generic [ref=e679]:
+                        - link [ref=e684]:
+                          - /url: /@bear.8532445
+                          - generic [ref=e686]: bear.8532445
+                        - generic [ref=e687]:
+                          - generic [ref=e688]:
+                            - img [ref=e691]
+                            - link [ref=e694]:
+                              - /url: /search?q=%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A&serp_type=tags&tag_id=18405834427032554
+                              - generic [ref=e697]: 日本旅遊
+                          - link [ref=e700]:
+                            - /url: /@bear.8532445/post/DYyUpHUk1AX
+                            - time [ref=e701]: 2026-5-26
+                      - button [ref=e704]:
+                        - img [ref=e706]
+                    - generic [ref=e711]:
+                      - generic [ref=e712]:
+                        - generic [ref=e714]: 終於懂了！大阪3️個商圈原來這麼逛‼️ 要去大阪購物的寶寶們👀過來，這篇購物路線一定不要錯過🛍️~
+                        - generic [ref=e716]: 還有各個商圈的優惠券也放在筆記圖裏啦
+                        - generic [ref=e718]: 📍Day 1 梅田➡️心齋橋 ✨ 梅田 主要商場：阪急百貨、阪神百貨、大丸梅田 🚇：JR大阪站/梅田站直達，交通便利 ➡️ 地鐵御堂筋線（約10分鐘）直達心齋橋站 ✨ 心齋橋（建議 5-6 小時，下午-晚上） 主要商場：大丸百貨心齋橋店、OPA 心齋橋、心齋橋筋商店街 潮流：Beams/United Arrows 時尚+藥妝：ZARA/唐吉訶德 🚇：地鐵御堂筋線心齋橋站下車即到 📒小貼士：心齋橋筋商店街超長，建議邊逛邊喫，大丸百貨裏奢侈品專櫃很集中
+                        - generic [ref=e720]: 📍 Day 2 難波 主要商場：高島屋大阪店、難波CITY、戎橋筋商店街 藥妝禮品：鶴羽藥妝、太陽藥妝 戶外服飾：Alpen
+                        - generic [ref=e722]:
+                          - text: 🚇：地鐵御堂筋線難波站下車即到，距心齋橋僅一站 📒小貼士：白天購物+晚上美食夜景是經典玩法… 展开
+                          - button [ref=e724]:
+                            - generic [ref=e725]: 翻譯
+                      - generic [ref=e730]:
+                        - generic [ref=e734]:
+                          - button [ref=e735]
+                          - button [ref=e739]
+                        - generic [ref=e742]:
+                          - button [ref=e743]
+                          - button [ref=e747]
+                        - generic [ref=e750]:
+                          - button [ref=e751]
+                          - button [ref=e755]
+                        - generic [ref=e758]:
+                          - button [ref=e759]
+                          - button [ref=e763]
+                        - generic [ref=e766]:
+                          - button [ref=e767]
+                          - button [ref=e771]
+                        - generic [ref=e774]:
+                          - button [ref=e775]
+                          - button [ref=e779]
+                        - generic [ref=e782]:
+                          - button [ref=e783]
+                          - button [ref=e787]
+                        - generic [ref=e790]:
+                          - button [ref=e791]
+                          - button [ref=e795]
+                        - generic [ref=e798]:
+                          - button [ref=e799]
+                          - button [ref=e803]
+                        - button [ref=e807]
+                      - generic [ref=e812]:
+                        - button [ref=e814]:
+                          - generic [ref=e816]:
+                            - img [ref=e817]
+                            - generic [ref=e821]: "1"
+                        - button [ref=e823]:
+                          - img [ref=e826]
+                        - button [ref=e829]:
+                          - img [ref=e832]
+                        - button [ref=e836]:
+                          - img [ref=e839]
+                  - generic [ref=e847] [cursor=pointer]:
+                    - link [ref=e850]:
+                      - /url: /@badger.8220214
+                      - img [ref=e852]
+                    - generic [ref=e854]:
+                      - generic [ref=e855]:
+                        - link [ref=e860]:
+                          - /url: /@badger.8220214
+                          - generic [ref=e862]: badger.8220214
+                        - generic [ref=e863]:
+                          - generic [ref=e864]:
+                            - img [ref=e867]
+                            - link [ref=e870]:
+                              - /url: /search?q=%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A&serp_type=tags&tag_id=18405834427032554
+                              - generic [ref=e873]: 日本旅遊
+                          - link [ref=e876]:
+                            - /url: /@badger.8220214/post/DYyU7lHCfkf
+                            - time [ref=e877]: 2026-5-26
+                      - button [ref=e880]:
+                        - img [ref=e882]
+                    - generic [ref=e887]:
+                      - generic [ref=e888]:
+                        - generic [ref=e890]: 終於懂了！大阪3️個商圈原來這麼逛‼️ 要去大阪購物的寶寶們👀過來，這篇購物路線一定不要錯過🛍️~
+                        - generic [ref=e892]: 還有各個商圈的優惠券也放在筆記圖裏啦
+                        - generic [ref=e894]: 📍Day 1 梅田➡️心齋橋 ✨ 梅田 主要商場：阪急百貨、阪神百貨、大丸梅田 🚇：JR大阪站/梅田站直達，交通便利 ➡️ 地鐵御堂筋線（約10分鐘）直達心齋橋站 ✨ 心齋橋（建議 5-6 小時，下午-晚上） 主要商場：大丸百貨心齋橋店、OPA 心齋橋、心齋橋筋商店街 潮流：Beams/United Arrows 時尚+藥妝：ZARA/唐吉訶德 🚇：地鐵御堂筋線心齋橋站下車即到 📒小貼士：心齋橋筋商店街超長，建議邊逛邊喫，大丸百貨裏奢侈品專櫃很集中
+                        - generic [ref=e896]: 📍 Day 2 難波 主要商場：高島屋大阪店、難波CITY、戎橋筋商店街 藥妝禮品：鶴羽藥妝、太陽藥妝 戶外服飾：Alpen
+                        - generic [ref=e898]:
+                          - text: 🚇：地鐵御堂筋線難波站下車即到，距心齋橋僅一站 📒小貼士：白天購物+晚上美食夜景是經典玩法… 展开
+                          - button [ref=e900]:
+                            - generic [ref=e901]: 翻譯
+                      - generic [ref=e906]:
+                        - generic [ref=e910]:
+                          - button [ref=e911]
+                          - button [ref=e915]
+                        - generic [ref=e918]:
+                          - button [ref=e919]
+                          - button [ref=e923]
+                        - generic [ref=e926]:
+                          - button [ref=e927]
+                          - button [ref=e931]
+                        - generic [ref=e934]:
+                          - button [ref=e935]
+                          - button [ref=e939]
+                        - generic [ref=e942]:
+                          - button [ref=e943]
+                          - button [ref=e947]
+                        - generic [ref=e950]:
+                          - button [ref=e951]
+                          - button [ref=e955]
+                        - generic [ref=e958]:
+                          - button [ref=e959]
+                          - button [ref=e963]
+                        - generic [ref=e966]:
+                          - button [ref=e967]
+                          - button [ref=e971]
+                        - generic [ref=e974]:
+                          - button [ref=e975]
+                          - button [ref=e979]
+                        - button [ref=e983]
+                      - generic [ref=e988]:
+                        - button [ref=e990]:
+                          - generic [ref=e992]:
+                            - img [ref=e993]
+                            - generic [ref=e997]: "1"
+                        - button [ref=e999]:
+                          - img [ref=e1002]
+                        - button [ref=e1005]:
+                          - img [ref=e1008]
+                        - button [ref=e1012]:
+                          - generic [ref=e1014]:
+                            - img [ref=e1015]
+                            - generic [ref=e1020]: "4"
+                  - generic [ref=e1026] [cursor=pointer]:
+                    - link [ref=e1029]:
+                      - /url: /@tylerinjapan
+                      - img [ref=e1031]
+                    - generic [ref=e1033]:
+                      - generic [ref=e1034]:
+                        - link [ref=e1039]:
+                          - /url: /@tylerinjapan
+                          - generic [ref=e1041]: tylerinjapan
+                        - generic [ref=e1042]:
+                          - generic [ref=e1043]:
+                            - img [ref=e1046]
+                            - link [ref=e1049]:
+                              - /url: /search?q=%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A&serp_type=tags&tag_id=18405834427032554
+                              - generic [ref=e1052]: 日本旅遊
+                          - link [ref=e1055]:
+                            - /url: /@tylerinjapan/post/DYSGUz4Gl4Z
+                            - time [ref=e1056]: 2026-5-13
+                      - button [ref=e1059]:
+                        - img [ref=e1061]
+                    - generic [ref=e1066]:
+                      - generic [ref=e1067]:
+                        - generic [ref=e1069]: 大阪購物|🛍️商場最全退稅指南 【附遊客專屬優惠券在圖2-6，省錢存】
+                        - generic [ref=e1071]:
+                          - text: 大阪購物其實商場也是有定位分區的，有的商場適合買奢侈，有的商場適合買藥妝、電器、潮牌 還有最容易搞混的「店鋪免稅」和「櫃檯免稅」一次講清👇 📍梅田區域 適合：百貨 / 奢牌 / 電器 / 一站式購物 特點：大阪站直連，商場最密集，雨天也能逛 📍心齋橋・難波區域 適合：潮牌 / 藥妝 / 美食 / 二次元 特點：遊客最多，深夜也能買買買 📍天王寺區域 適合：本地感購物 / 人少好逛 特點：阿倍野Harukas就在這裏
+                          - button [ref=e1073]:
+                            - generic [ref=e1074]: 翻譯
+                      - generic [ref=e1079]:
+                        - generic [ref=e1083]:
+                          - button [ref=e1084]
+                          - button [ref=e1088]
+                        - generic [ref=e1091]:
+                          - button [ref=e1092]
+                          - button [ref=e1096]
+                        - generic [ref=e1099]:
+                          - button [ref=e1100]
+                          - button [ref=e1104]
+                        - generic [ref=e1107]:
+                          - button [ref=e1108]
+                          - button [ref=e1112]
+                        - generic [ref=e1115]:
+                          - button [ref=e1116]
+                          - button [ref=e1120]
+                        - button [ref=e1124]
+                      - generic [ref=e1129]:
+                        - button [ref=e1131]:
+                          - generic [ref=e1133]:
+                            - img [ref=e1134]
+                            - generic [ref=e1138]: "1"
+                        - button [ref=e1140]:
+                          - img [ref=e1143]
+                        - button [ref=e1146]:
+                          - img [ref=e1149]
+                        - button [ref=e1153]:
+                          - generic [ref=e1155]:
+                            - img [ref=e1156]
+                            - generic [ref=e1161]: "6"
+          - generic [ref=e1162]:
+            - generic [ref=e1163]:
+              - generic [ref=e1164]: 登入或註冊 Threads
+              - generic [ref=e1165]: 查看人們談論的主題，並加入對話。
+              - button [ref=e1166] [cursor=pointer]:
+                - generic [ref=e1167]:
+                  - img [ref=e1168]
+                  - generic [ref=e1171]: 使用 Instagram 帳號繼續
+              - link [ref=e1173] [cursor=pointer]:
+                - /url: /login?show_choice_screen=false
+                - text: 改以用戶名稱登入
+            - contentinfo [ref=e1174]:
+              - list [ref=e1175]:
+                - listitem [ref=e1176]:
+                  - generic [ref=e1177]: © 2026
+                - listitem [ref=e1178]:
+                  - link [ref=e1180] [cursor=pointer]:
+                    - /url: https://l.threads.com/?u=https%3A%2F%2Fhelp.instagram.com%2F769983657850450&e=AUCZy4NBCFI1ubiCNalV0UqqZUEoD9CymBe_y3DmQ4rqqHWixQ_VUIOLxIXKvtDtZpVHo-A8Vr5FydI78326AuvxKy_B76z--EBZLVVOyq7fkbF-O0prvivvxn0
+                    - text: 《Threads 使用條款》
+                - listitem [ref=e1181]:
+                  - link [ref=e1183] [cursor=pointer]:
+                    - /url: https://l.threads.com/?u=https%3A%2F%2Fhelp.instagram.com%2F515230437301944&e=AUCZy4NBCFI1ubiCNalV0UqqZUEoD9CymBe_y3DmQ4rqqHWixQ_VUIOLxIXKvtDtZpVHo-A8Vr5FydI78326AuvxKy_B76z--EBZLVVOyq7fkbF-O0prvivvxn0
+                    - text: 《隱私政策》
+                - listitem [ref=e1184]:
+                  - link [ref=e1186] [cursor=pointer]:
+                    - /url: https://l.threads.com/?u=https%3A%2F%2Fhelp.instagram.com%2F1896641480634370%2F&e=AUCZy4NBCFI1ubiCNalV0UqqZUEoD9CymBe_y3DmQ4rqqHWixQ_VUIOLxIXKvtDtZpVHo-A8Vr5FydI78326AuvxKy_B76z--EBZLVVOyq7fkbF-O0prvivvxn0
+                    - text: 《Cookie 政策》
+                - listitem [ref=e1187]:
+                  - button [ref=e1188] [cursor=pointer]:
+                    - generic [ref=e1189]: 回報問題
+  - generic:
+    - list:
+      - listitem [ref=e1191]:
+        - status [ref=e1192]:
+          - generic [ref=e1193]:
+            - button "關閉" [ref=e1195] [cursor=pointer]:
+              - img "關閉" [ref=e1196]
+            - alert [ref=e1200]:
+              - generic [ref=e1202]:
+                - text: 繼續即表示你同意
+                - link "《Threads 使用條款》" [ref=e1203] [cursor=pointer]:
+                  - /url: https://l.threads.com/?u=https%3A%2F%2Fhelp.instagram.com%2F769983657850450&e=AUCZy4NBCFI1ubiCNalV0UqqZUEoD9CymBe_y3DmQ4rqqHWixQ_VUIOLxIXKvtDtZpVHo-A8Vr5FydI78326AuvxKy_B76z--EBZLVVOyq7fkbF-O0prvivvxn0
+                - text: 、
+                - link "《Meta 隱私政策》" [ref=e1204] [cursor=pointer]:
+                  - /url: https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fprivacy%2Fpolicy%2F&e=AUCZy4NBCFI1ubiCNalV0UqqZUEoD9CymBe_y3DmQ4rqqHWixQ_VUIOLxIXKvtDtZpVHo-A8Vr5FydI78326AuvxKy_B76z--EBZLVVOyq7fkbF-O0prvivvxn0
+                - text: 和
+                - link "《Threads 附加隱私政策》" [ref=e1205] [cursor=pointer]:
+                  - /url: https://l.threads.com/?u=https%3A%2F%2Fhelp.instagram.com%2F515230437301944&e=AUCZy4NBCFI1ubiCNalV0UqqZUEoD9CymBe_y3DmQ4rqqHWixQ_VUIOLxIXKvtDtZpVHo-A8Vr5FydI78326AuvxKy_B76z--EBZLVVOyq7fkbF-O0prvivvxn0
+                - text: 。
+  - dialog [ref=e1212]:
+    - generic [ref=e1217]:
+      - generic [ref=e1219]:
+        - generic [ref=e1221]: 透過 Threads 暢所欲言
+        - generic [ref=e1223]: 加入 Threads 即可分享想法、探索新鮮事、追蹤志趣相投的人，還有更多等你來發現。
+      - button "Instagram 使用 Instagram 帳號繼續 登入" [active] [ref=e1224] [cursor=pointer]:
+        - img "Instagram" [ref=e1225]
+        - generic [ref=e1227]: 使用 Instagram 帳號繼續
+        - img "登入" [ref=e1230]
