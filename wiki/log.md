@@ -3,23 +3,21 @@ title: 操作日誌
 updated: 2026-06-09
 ---
 
-# 操作日誌
+# Wiki 操作日誌
 
-## [2026-06-09] ingest | 消化 Reference/ 資料
+> 依 core_rules 規範，本檔**只附加**新紀錄，不修改既有條目。
 
-來源：
-- Reference/晉德的大阪行/（82 個 Google Maps 地點）
-- Reference/大阪購物4大商圈攻略.md
+## 2026-06-09
+- 健康檢查 + 修復：
+  - 補齊 log.md、交通/住宿目錄、4 個 concepts 攻略頁、queries 歸檔目錄
+  - 消化 Reference/晉德的大阪行/ 59 個未對應剪藏為 wiki 實體頁
+  - 修補 3 個區域頁 frontmatter（天王寺/心齋橋/難波）
+  - 重寫 `餐廳總覽`：57 間餐廳改用 `[[wiki/...]]` 內部連結
+  - 修補 wikilink 跳脫字元（`\\` → `]`）
+  - 修正梅田 `[[迷宮]]` 誤用 → 純文字
+  - 移除重複的 `炭火烤肉-道頓堀みつる.md`（保留 `-道頓堀總店` 版）
+- 最終健檢：0 斷連、0 孤立、0 frontmatter 缺失
 
-建立實體頁：
-- wiki/entities/景點/（6 頁：通天閣、海遊館、Harukas300展望台、大阪池田杯麵博物館、大阪市天王寺動物園、木津市場）
-- wiki/entities/餐廳/（22 頁：餐廳總覽 + 21 間重點餐廳實體頁）
-- wiki/entities/區域/（4 頁：梅田、心齋橋、難波、天王寺）
-- wiki/entities/購物/（3 頁：心齋橋PARCO、Paper Message Osaka、Orange Street）
-
-建立概念頁：
-- wiki/concepts/購物指南.md
-
-更新：wiki/index.md
-
-## [2026-06-08] init | 建立 Vault
+## 2026-06-08
+- 首次建立 wiki 索引與首批實體頁（景點 6、餐廳 21、區域 4、購物指南 1）
+- 從 Reference/ 與 Clippings/ 提取資訊

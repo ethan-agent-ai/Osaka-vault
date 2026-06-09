@@ -1,0 +1,18 @@
+---
+title: Pokemon Cafe Osaka Shinsaibashi
+tags: [餐廳, 大阪]
+updated: 2026-06-09
+source_count: 1
+---
+
+咖啡廳 4.1 分。寶可夢主題咖啡廳，位於心齋橋，需提前預約。
+
+## 基本資訊
+- 類型：咖啡廳
+- 評分：4.1
+- 價位：2000-6000
+- 區域：大阪心齋橋
+- 描述：寶可夢主題咖啡廳，位於心齋橋，需提前預約。
+
+## 來源
+- [[Reference/晉德的大阪行/Pokemon Cafe Osaka Shinsaibashi]]

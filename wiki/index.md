@@ -13,6 +13,12 @@ updated: 2026-06-09
 
 | 頁面 | 摘要 | 來源數 |
 |---|---|---|
+| [[wiki/entities/景點/Harukas300展望台]] | 評分 4.6 | 1 |
+| [[wiki/entities/景點/大阪市天王寺動物園]] | 評分 4.1 | 1 |
+| [[wiki/entities/景點/大阪池田杯麵博物館]] | 評分 4.4 | 1 |
+| [[wiki/entities/景點/木津市場]] | 評分 4.0 | 1 |
+| [[wiki/entities/景點/海遊館]] | 評分 4.5 | 1 |
+
 | [[wiki/entities/景點/通天閣]] | 大阪地標觀景台，新世界商圈 | 1 |
 | [[wiki/entities/景點/海遊館]] | 天保山大型水族館 | 1 |
 | [[wiki/entities/景點/Harukas300展望台]] | 日本第一高樓展望台 | 1 |
@@ -24,34 +30,28 @@ updated: 2026-06-09
 
 | 頁面 | 摘要 | 來源數 |
 |---|---|---|
-| [[wiki/entities/餐廳/餐廳總覽]] | 82 間餐廳與商店完整分類總表 | 82 |
-| [[wiki/entities/餐廳/Onigiri-Gorichan]] | 飯糰 4.9 超人氣飯糰專賣店 | 1 |
-| [[wiki/entities/餐廳/Onigiri-Gorichan-Nankai-Namba]] | 飯糰 5.0 南難波站分店 | 1 |
-| [[wiki/entities/餐廳/Gyukatsu-Motomura-LUCUA]] | 炸牛扒 4.9 梅田LUCLA | 1 |
-| [[wiki/entities/餐廳/DOTONBORI-KUROFUNE]] | 鰻魚料理 4.9 東心齋橋 | 1 |
-| [[wiki/entities/餐廳/SUKIYAKI-FUJIMOTO]] | 涮涮鍋 4.8 | 1 |
-| [[wiki/entities/餐廳/板前燒肉一牛-心齋橋本店]] | 日式燒肉 4.8 雌牛專門 | 1 |
-| [[wiki/entities/餐廳/炸牛排-京都勝牛-梅田店]] | 炸牛排 4.8 梅田店 | 1 |
-| [[wiki/entities/餐廳/燒肉力丸-難波道頓堀店]] | 日式燒肉 4.7 | 1 |
-| [[wiki/entities/餐廳/Yakinikuen忍鬨]] | 日式燒肉 4.7 爆蔥厚切牛舌 | 1 |
-| [[wiki/entities/餐廳/GYU-NO-HIGE]] | 日式燒肉 4.7 | 1 |
-| [[wiki/entities/餐廳/Sumibi-Yakitori-Kibitaki]] | 串燒 4.7 預約制燒鳥omakase | 1 |
-| [[wiki/entities/餐廳/Tonkatsu-Minato]] | 炸豬排 4.7 | 1 |
-| [[wiki/entities/餐廳/心齋橋-蟹善]] | 螃蟹 4.7 >¥10,000 | 1 |
-| [[wiki/entities/餐廳/炭火烤肉-道頓堀みつる]] | 日式燒肉 4.6 | 1 |
-| [[wiki/entities/餐廳/Gyutan-YOSHIJI-Unagidani]] | 牛舌 4.6 推牛舌套餐 | 1 |
-| [[wiki/entities/餐廳/Tachisushi-Maguro]] | 壽司 4.6 立ち食い | 1 |
-| [[wiki/entities/餐廳/精肉壽喜燒處-北村]] | 壽喜燒 4.4 米其林1星 | 1 |
-| [[wiki/entities/餐廳/馬鹿一代噴火拉麵]] | 拉麵 4.2 噴火表演 | 1 |
-| [[wiki/entities/餐廳/Dorajyu]] | 御好燒 4.3 大阪最好吃大阪燒 | 1 |
-| [[wiki/entities/餐廳/味乃家御好燒]] | 御好燒 4.3 | 1 |
-| [[wiki/entities/餐廳/Nishiya]] | 烏冬 4.1 TWICE Sana推薦百年老店 | 1 |
+| [[wiki/entities/餐廳/餐廳總覽]] | 57 間餐廳完整分類總表 | 82 |
+| [[wiki/entities/餐廳/BATTEN-YOKATO-AMERIKAMURA]] | 評分 4.0 | 1 |
+| [[wiki/entities/餐廳/Bakuro]] | 評分 4.4 | 1 |
+| [[wiki/entities/餐廳/Bear-Paw-Cafe]] | 評分 4.5 | 1 |
+| [[wiki/entities/餐廳/CANELE-du-JAPON-Nagahoribashi-Store]] | 評分 4.3 | 1 |
+| [[wiki/entities/餐廳/COBATO-STORE-OSAKA]] | 評分 4.5 | 1 |
+| [[wiki/entities/餐廳/Cobato836]] | 評分 4.1 | 1 |
+| [[wiki/entities/餐廳/DOTONBORI-KUROFUNE]] | 評分 4.9 | 1 |
+| [[wiki/entities/餐廳/Daiki-Suisan-Kaitenzushi-Whity-Umeda]] | 評分 3.8 | 1 |
+| [[wiki/entities/餐廳/Daiko-Sushi-Honten]] | 評分 4.0 | 1 |
+| [[wiki/entities/餐廳/Dekasan]] | 評分 3.8 | 1 |
+| [[wiki/entities/餐廳/Dorajyu]] | 評分 4.3 | 1 |
+| [[wiki/entities/餐廳/GYU-NO-HIGE]] | 評分 4.7 | 1 |
+| [[wiki/entities/餐廳/Gokaitachizushi]] | 評分 4.2 | 1 |
+| [[wiki/entities/餐廳/Gyukatsu-Motomura-LUCUA]] | 評分 4.9 | 1 |
+| [[wiki/entities/餐廳/Gyutan-Charcoal-grilled-YOSHIJI-Shinsaibashi-branch]] | 評分 4.4 | 1 |
 
 ## 住宿
 
 | 頁面 | 摘要 | 來源數 |
 |---|---|---|
-| 尚無資料 | | |
+| [[wiki/entities/住宿/住宿總覽]] | 區域選擇指南 | 0 |
 
 ## 區域
 
@@ -66,12 +66,29 @@ updated: 2026-06-09
 
 | 頁面 | 摘要 | 來源數 |
 |---|---|---|
-| 尚無資料 | | |
+| [[wiki/entities/交通/周遊券]] | 評分 N/A | 0 |
+| [[wiki/entities/交通/大阪地鐵]] | 評分 N/A | 0 |
+| [[wiki/entities/交通/關西機場]] | 評分 N/A | 0 |
+
+## 購物
+
+| 頁面 | 摘要 | 來源數 |
+|---|---|---|
+| [[wiki/entities/購物/BIOTOP-OSAKA]] | 評分 4.0 | 1 |
+| [[wiki/entities/購物/Gachagacha-no-mori-Osaka-Umeda-Chayamachi-Store]] | 評分 4.1 | 1 |
+| [[wiki/entities/購物/Orange-Street]] | 評分 3.9 | 1 |
+| [[wiki/entities/購物/Paper-Message-Osaka]] | 評分 4.6 | 1 |
+| [[wiki/entities/購物/YAMASTORE]] | 評分 4.5 | 1 |
+| [[wiki/entities/購物/心齋橋PARCO]] | 評分 4.2 | 1 |
 
 ## 攻略
 
 | 頁面 | 摘要 | 來源數 |
 |---|---|---|
+| [[wiki/concepts/行程規劃]] | 經典 3 日 + 5 日延伸路線 | 0 |
+| [[wiki/concepts/美食指南]] | 必吃分類完整指南 | 0 |
+| [[wiki/concepts/預算規劃]] | 經濟/標準/奢華三級預算 | 0 |
+| [[wiki/concepts/打包清單]] | 季節性打包建議 | 0 |
 | [[wiki/concepts/購物指南]] | 4大商圈攻略（梅田/心齋橋/難波/天王寺） | 1 |
 
 ---
