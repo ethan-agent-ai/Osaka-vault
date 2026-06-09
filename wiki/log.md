@@ -21,3 +21,8 @@ updated: 2026-06-09
 ## 2026-06-08
 - 首次建立 wiki 索引與首批實體頁（景點 6、餐廳 21、區域 4、購物指南 1）
 - 從 Reference/ 與 Clippings/ 提取資訊
+
+## 2026-06-09 17:07
+- 生成大阪攻略 bento-grid HTML: `wiki/queries/2026-06-09-osaka-bento-guide.html`
+- 內容涵蓋:3 日行程、必吃美食 TOP 6、交通票券、機場進市區、預算、4 大商圈
+- 觸發關鍵字:使用者於 Discord #🏯-osaka大阪行程 請求「生成一張大阪攻略圖片」
